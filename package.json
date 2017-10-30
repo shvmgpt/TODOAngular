@@ -1,0 +1,14 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "todo list using angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.1.6"
+  }
+}
