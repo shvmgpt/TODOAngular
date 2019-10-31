@@ -3,10 +3,12 @@ var statusEnums = {
     complete: "complete",
     delete: "delete"
 };
+//list of todos
 var todos = {
     1: { title: "Learn JavaScript", status: statusEnums.complete },
     2: { title: "Do Assignment on API", status: statusEnums.active },
     3: { title: "Make Front End of API", status: statusEnums.active },
+    4: { title: "Update the code for todo application on github", status: statusEnums.active}
 };
 var next_todo_id = 4;
 var TodoOpertations = (function () {
